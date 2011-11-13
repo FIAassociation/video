@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the video_all_requires feature.
+ */
+
+include_once('video_all_requires.features.inc');
